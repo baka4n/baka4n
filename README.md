@@ -10,6 +10,7 @@
 <a href="https://www.adobe.com/in/products/premiere.html"><image src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/pr_appicon.svg" width=100 height=100></a>
 <a href="https://www.adobe.com/in/products/photoshop-lightroom.html"><image src="https://www.adobe.com/content/dam/cc1/en/genuine/images/AFC/LR_icon.svg" width=100 height=100></a>
 <a href="https://www.adobe.com/in/products/dreamweaver.html"><image src="https://www.adobe.com/content/dam/cc/icons/dw_cc_app_RGB.svg" width=100 height=100></a>
+<a href="https://www.adobe.com/in/products/audition.html"><image src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg" width=100 height=100></a>
 
-## my public repositories
+# my public repositories
 ![baka4n's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baka4n&layout=compact&hide_border=true&langs_count=10)
