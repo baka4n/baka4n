@@ -11,12 +11,16 @@
 <a href="https://www.adobe.com/in/products/dreamweaver.html"><image src="https://www.adobe.com/content/dam/cc/icons/dw_cc_app_RGB.svg" width=100 height=100></a>
 <a href="https://www.adobe.com/in/products/audition.html"><image src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg" width=100 height=100></a>
 # ✪ **Organizations**
+<a href="https://github.com/XenFork"><image src="https://avatars.githubusercontent.com/u/111216781?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/Over-Run"><image src="https://avatars.githubusercontent.com/u/66425408?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/Funny-Developers"><image src="https://avatars.githubusercontent.com/u/74489243?s=200&v=4" width=100 height=100></a>
 <a href="https://github.com/AmazingRabbit-Studio"><image src="https://avatars.githubusercontent.com/u/79623476?s=200&v=4" width=100 height=100></a>
 <a href="https://github.com/AtionMC"><image src="https://avatars.githubusercontent.com/u/93018609?s=200&v=4" width=100 height=100></a>
 <a href="https://github.com/ChinaWareMC"><image src="https://avatars.githubusercontent.com/u/131511543?s=200&v=4" width=100 height=100></a>
 <a href="https://github.com/frigate-apps"><image src="https://avatars.githubusercontent.com/u/101233870?s=200&v=4" width=100 height=100></a>
-<a href="https://github.com/Funny-Developers"><image src="https://avatars.githubusercontent.com/u/74489243?s=200&v=4" width=100 height=100></a>
-<a href="https://github.com/Over-Run"><image src="https://avatars.githubusercontent.com/u/66425408?s=200&v=4" width=100 height=100></a>
+<s><a href="https://github.com/SquidCraftTeam"><image src="https://avatars.githubusercontent.com/u/63392369?s=200&v=4" width=100 height=100></a></s>
+<a href="https://github.com/Taizhou-Boxin-Machinery-Co-Ltd"><image src="https://avatars.githubusercontent.com/u/116943802?s=200&v=4" width=100 height=100></a>
+
 # ✪ **My Skills & Tools**
 
 # my public repositories
