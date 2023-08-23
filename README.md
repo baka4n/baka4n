@@ -21,7 +21,15 @@
 <s><a href="https://github.com/SquidCraftTeam"><image src="https://avatars.githubusercontent.com/u/63392369?s=200&v=4" width=100 height=100></a></s>
 <a href="https://github.com/Taizhou-Boxin-Machinery-Co-Ltd"><image src="https://avatars.githubusercontent.com/u/116943802?s=200&v=4" width=100 height=100></a>
 
-# ✪ **My Skills & Tools**
-
+# ✪ **Tools**
+<image src="https://learn.microsoft.com/zh-cn/media/logos/logo_Cplusplus.svg" width=100 height=100>
+<image src="https://learn.microsoft.com/zh-cn/media/logos/logo_C.svg" width=100 height=100>
+<image src="https://learn.microsoft.com/zh-cn/media/logos/logo_Csharp.svg" width=100 height=100>
+<image src="https://learn.microsoft.com/zh-cn/media/logos/logo_Fsharp.svg" width=100 height=100>
+<image src="https://learn.microsoft.com/zh-cn/media/logos/logo_VB.svg" width=100 height=100>
+<image src="https://th.bing.com/th?id=ODLS.f8701c0e-08d1-4088-9d12-62a1b6912ddf&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" width=100 height=100>
+<image src="https://avatars.githubusercontent.com/u/36635386?s=48&v=4" width=100 height=100>
+<image src="https://avatars.githubusercontent.com/u/4314092?s=48&v=4" width=100 height=100>
+<image src="https://avatars.githubusercontent.com/u/41768318?s=200&v=4" width=100 height=100>
 # my public repositories
 ![baka4n's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baka4n&layout=compact&hide_border=true&langs_count=10)
