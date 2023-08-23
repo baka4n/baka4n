@@ -3,7 +3,6 @@
 ![统计数据](https://github-readme-stats.vercel.app/api?username=baka4n&locale=cn&show_icons=true)
 
 # ✪ **Design & Tools**
-
 <a href="https://www.adobe.com/in/products/photoshop.html"><image src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" width=100 height=100></a>
 <a href="https://www.adobe.com/in/products/illustrator.html"><image src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" width=100 height=100></a>
 <a href="https://www.adobe.com/in/products/aftereffects.html"><image src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" width=100 height=100></a>
@@ -11,9 +10,13 @@
 <a href="https://www.adobe.com/in/products/photoshop-lightroom.html"><image src="https://www.adobe.com/content/dam/cc1/en/genuine/images/AFC/LR_icon.svg" width=100 height=100></a>
 <a href="https://www.adobe.com/in/products/dreamweaver.html"><image src="https://www.adobe.com/content/dam/cc/icons/dw_cc_app_RGB.svg" width=100 height=100></a>
 <a href="https://www.adobe.com/in/products/audition.html"><image src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg" width=100 height=100></a>
-
 # ✪ **Organizations**
-
+<a href="https://github.com/AmazingRabbit-Studio"><image src="https://avatars.githubusercontent.com/u/79623476?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/AtionMC"><image src="https://avatars.githubusercontent.com/u/93018609?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/ChinaWareMC"><image src="https://avatars.githubusercontent.com/u/131511543?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/frigate-apps"><image src="https://avatars.githubusercontent.com/u/101233870?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/Funny-Developers"><image src="https://avatars.githubusercontent.com/u/74489243?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/Over-Run"><image src="https://avatars.githubusercontent.com/u/66425408?s=200&v=4" width=100 height=100></a>
 # ✪ **My Skills & Tools**
 
 # my public repositories
