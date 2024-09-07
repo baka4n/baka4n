@@ -3,7 +3,7 @@
 ![统计数据](https://github-readme-stats.vercel.app/api?username=baka4n&locale=cn&show_icons=true)
 
 # ✪ **AF DIAN**
-<a href="https://afdian.net/apply/certify"><image src="https://static.afdiancdn.com/static/img/logo/logo.png" width=100 height=100></a>
+<a href="https://ifdian.net/a/baka4n"><image src="https://static.afdiancdn.com/static/img/logo/logo.png" width=100 height=100></a>
 
 # ✪ **Design & Tools**
 <a href="https://www.adobe.com/in/products/photoshop.html"><image src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" width=100 height=100></a>
