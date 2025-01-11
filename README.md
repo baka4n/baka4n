@@ -2,6 +2,10 @@
 
 ![统计数据](https://github-readme-stats.vercel.app/api?username=baka4n&locale=cn&show_icons=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=baka4n)](https://git.io/streak-stats)
+
+[![SanseYooyea's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baka4n&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 # ✪ **AF DIAN**
 <a href="https://ifdian.net/a/baka4n"><image src="https://static.afdiancdn.com/static/img/logo/logo.png" width=100 height=100></a>
 
@@ -37,3 +41,4 @@
 
 # my public repositories
 ![baka4n's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baka4n&layout=compact&hide_border=true&langs_count=10)
+
