@@ -1,6 +1,6 @@
 ## hey, ladies and gentlemen, 👋 ![资料阅览数量](https://profile-counter.glitch.me/baka4n/count.svg)
 
-![统计数据](https://github-readme-stats.vercel.com/api?username=baka4n&locale=cn&show_icons=true)
+![统计数据](https://github-readme-stats-sage-six-40.vercel.app/api?username=baka4n&locale=cn&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=baka4n)](https://git.io/streak-stats)
 
@@ -17,6 +17,7 @@
 <a href="https://www.adobe.com/in/products/photoshop-lightroom.html"><image src="https://www.adobe.com/content/dam/cc1/en/genuine/images/AFC/LR_icon.svg" width=100 height=100></a>
 <a href="https://www.adobe.com/in/products/dreamweaver.html"><image src="https://www.adobe.com/content/dam/cc/icons/dw_cc_app_RGB.svg" width=100 height=100></a>
 <a href="https://www.adobe.com/in/products/audition.html"><image src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg" width=100 height=100></a>
+<a href="https://www.blackmagicdesign.com/cn/products/davinciresolve/studio"><image src="https://th.bing.com/th/id/OSK.HziEB72yHM4jGI4nJ78tHqdS744VDtv47UIA2rz8QLs?w=50&h=50&c=12&r=0&o=6&pid=SANGAM" width=100 height=100></a>
 # ✪ **Organizations**
 <a href="https://github.com/XenFork"><image src="https://avatars.githubusercontent.com/u/111216781?s=200&v=4" width=100 height=100></a>
 <a href="https://github.com/Over-Run"><image src="https://avatars.githubusercontent.com/u/66425408?s=200&v=4" width=100 height=100></a>
@@ -27,6 +28,14 @@
 <a href="https://github.com/frigate-apps"><image src="https://avatars.githubusercontent.com/u/101233870?s=200&v=4" width=100 height=100></a>
 <s><a href="https://github.com/SquidCraftTeam"><image src="https://avatars.githubusercontent.com/u/63392369?s=200&v=4" width=100 height=100></a></s>
 <a href="https://github.com/Taizhou-Boxin-Machinery-Co-Ltd"><image src="https://avatars.githubusercontent.com/u/116943802?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/Copy-Mc-Mod-Team"><image src="https://avatars.githubusercontent.com/u/149677252?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/dove-home-team"><image src="https://avatars.githubusercontent.com/u/151535559?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/UniversalExporters"><image src="https://avatars.githubusercontent.com/u/159607343?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/NitianStudio"><image src="https://avatars.githubusercontent.com/u/174343917?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/Polari-Stars-MC"><image src="https://avatars.githubusercontent.com/u/184593788?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/Unitego"><image src="https://avatars.githubusercontent.com/u/209337940?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/Pus-Volans"><image src="https://avatars.githubusercontent.com/u/213912403?s=200&v=4" width=100 height=100></a>
+<a href="https://github.com/Ver-shift"><image src="https://avatars.githubusercontent.com/u/232402222?s=200&v=4" width=100 height=100></a>
 
 # ✪ **Tools**
 <a href="https://learn.microsoft.com/zh-cn/cpp/cpp/?view=msvc-170"><image src="https://learn.microsoft.com/zh-cn/media/logos/logo_Cplusplus.svg" width=100 height=100></a>
@@ -40,5 +49,5 @@
 <a href="https://github.com/openjdk"><image src="https://avatars.githubusercontent.com/u/41768318?s=200&v=4" width=100 height=100></a>
 
 # my public repositories
-![baka4n's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baka4n&layout=compact&hide_border=true&langs_count=10)
+![baka4n's Most used languages](https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=baka4n&layout=compact&hide_border=true&langs_count=10)
 
