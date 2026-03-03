@@ -1,6 +1,6 @@
 ## hey, ladies and gentlemen, 👋 ![资料阅览数量](https://profile-counter.glitch.me/baka4n/count.svg)
 
-![统计数据](https://github.com/baka4n/github-readme-stats)
+![统计数据](https://github-readme-stats.vercel.com/api?username=baka4n&locale=cn&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=baka4n)](https://git.io/streak-stats)
 
