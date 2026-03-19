@@ -1,4 +1,5 @@
-## hey, ladies and gentlemen, 👋 ![资料阅览数量](https://profile-counter.glitch.me/baka4n/count.svg)
+## hey, ladies and gentlemen, 👋 
+![资料阅览数量](https://count.getloli.com/@baka4n?name=baka4n&theme=booru-ve&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ![统计数据](https://github-readme-stats-sage-six-40.vercel.app/api?username=baka4n&locale=cn&show_icons=true)
 
