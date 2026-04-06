@@ -28,7 +28,6 @@
 <a href="https://github.com/ChinaWareMC"><image src="https://avatars.githubusercontent.com/u/131511543?s=200&v=4" width=100 height=100></a>
 <a href="https://github.com/frigate-apps"><image src="https://avatars.githubusercontent.com/u/101233870?s=200&v=4" width=100 height=100></a>
 <s><a href="https://github.com/SquidCraftTeam"><image src="https://avatars.githubusercontent.com/u/63392369?s=200&v=4" width=100 height=100></a></s>
-<a href="https://github.com/Taizhou-Boxin-Machinery-Co-Ltd"><image src="https://avatars.githubusercontent.com/u/116943802?s=200&v=4" width=100 height=100></a>
 <a href="https://github.com/Copy-Mc-Mod-Team"><image src="https://avatars.githubusercontent.com/u/149677252?s=200&v=4" width=100 height=100></a>
 <a href="https://github.com/dove-home-team"><image src="https://avatars.githubusercontent.com/u/151535559?s=200&v=4" width=100 height=100></a>
 <a href="https://github.com/UniversalExporters"><image src="https://avatars.githubusercontent.com/u/159607343?s=200&v=4" width=100 height=100></a>
